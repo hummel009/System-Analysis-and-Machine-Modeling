@@ -31,16 +31,16 @@ fun simulateRuns(runs: Int): Array<Statistics> {
 }
 
 class Factory {
-	private val random = Random()
+	private val random: Random = Random()
 
-	private var partsType1 = 0
-	private var partsType2 = 0
-	private var accumulatorPartsType1 = 0
-	private var accumulatorPartsType2 = 0
-	private var technoModuleParts = 0
-	private var packPlaceProducts = 0
-	private var packPlacePackets = 0
-	private var storagePackets = 0
+	private var partsType1: Int = 0
+	private var partsType2: Int = 0
+	private var accumulatorPartsType1: Int = 0
+	private var accumulatorPartsType2: Int = 0
+	private var technoModuleParts: Int = 0
+	private var packPlaceProducts: Int = 0
+	private var packPlacePackets: Int = 0
+	private var storagePackets: Int = 0
 
 	var statistics: Statistics = Statistics()
 
