@@ -58,42 +58,42 @@
 
 <!----------------------------------------------------------------------------->
 
-[code_smells_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=code_smells
+[code_smells_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=code_smells
 
-[code_smells_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[code_smells_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[maintainability_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=sqale_rating
+[maintainability_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=sqale_rating
 
-[maintainability_rating_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[maintainability_rating_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[security_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=security_rating
+[security_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=security_rating
 
-[security_rating_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[security_rating_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[bugs_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=bugs
+[bugs_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=bugs
 
-[bugs_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[bugs_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[vulnerabilities_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=vulnerabilities
+[vulnerabilities_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=vulnerabilities
 
-[vulnerabilities_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[vulnerabilities_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[duplicated_lines_density_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=duplicated_lines_density
+[duplicated_lines_density_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=duplicated_lines_density
 
-[duplicated_lines_density_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[duplicated_lines_density_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[reliability_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=reliability_rating
+[reliability_rating_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=reliability_rating
 
-[reliability_rating_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[reliability_rating_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[quality_gate_status_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=alert_status
+[quality_gate_status_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=alert_status
 
-[quality_gate_status_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[quality_gate_status_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[technical_debt_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=sqale_index
+[technical_debt_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=sqale_index
 
-[technical_debt_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[technical_debt_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
 
-[lines_of_code_badge]: https://sonarcloud.io/api/project_badges/measure?project=Hummel009_System-Analysis-and-Machine-Modeling&metric=ncloc
+[lines_of_code_badge]: https://sonarcloud.io/api/project_badges/measure?project=hummel009_System-Analysis-and-Machine-Modeling&metric=ncloc
 
-[lines_of_code_link]: https://sonarcloud.io/summary/overall?id=Hummel009_System-Analysis-and-Machine-Modeling
+[lines_of_code_link]: https://sonarcloud.io/summary/overall?id=hummel009_System-Analysis-and-Machine-Modeling
