@@ -113,20 +113,24 @@ fun plotRandomUniform(randomNumbers: DoubleArray) {
 	val expectedValues = DoubleArray(100) { it * 0.01 }
 
 	val chart = XYChart(1600, 900)
-	chart.title = "Random vs Uniform"
+	chart.title = "Случайные значения"
 	chart.xAxisTitle = "X"
 	chart.yAxisTitle = "Y"
 
-	chart.addSeries("Random", randomNumbers.indices.map { it.toDouble() }.toDoubleArray(), randomNumbers)
-	chart.addSeries("Uniform", randomNumbers.indices.map { it.toDouble() }.toDoubleArray(), expectedValues)
+	chart.addSeries(
+		"Случайные значения", randomNumbers.indices.map { it.toDouble() }.toDoubleArray(), randomNumbers
+	)
+	chart.addSeries(
+		"Равномерное распределение", randomNumbers.indices.map { it.toDouble() }.toDoubleArray(), expectedValues
+	)
 
 	BitmapEncoder.saveBitmap(chart, "./${outputDir}/random_uniform", BitmapFormat.JPG)
 }
 
 fun mdIfNot(path: String): File {
-	val soundsDir = File(path)
-	if (!soundsDir.exists()) {
-		soundsDir.mkdirs()
+	val folder = File(path)
+	if (!folder.exists()) {
+		folder.mkdirs()
 	}
-	return soundsDir
+	return folder
 }

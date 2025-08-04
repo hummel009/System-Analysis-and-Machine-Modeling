@@ -209,9 +209,9 @@ enum class TaskType {
 }
 
 fun mdIfNot(path: String): File {
-	val soundsDir = File(path)
-	if (!soundsDir.exists()) {
-		soundsDir.mkdirs()
+	val folder = File(path)
+	if (!folder.exists()) {
+		folder.mkdirs()
 	}
-	return soundsDir
+	return folder
 }
