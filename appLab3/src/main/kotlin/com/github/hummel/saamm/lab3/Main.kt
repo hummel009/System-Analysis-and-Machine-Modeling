@@ -114,10 +114,10 @@ class Factory(
 		queue.add(Task(currentTime, TaskType.GENERATOR))
 
 		while (currentTime <= exitTime * 1000) {
-			val task = queue.poll()
-			currentTime = task.endTime
+			val (endTime, taskType) = queue.poll()
+			currentTime = endTime
 
-			when (task.taskType) {
+			when (taskType) {
 				TaskType.GENERATOR -> {
 					val time = (random.nextGaussian().coerceIn(-0.5, 0.5) + 0.5) * 1000 + 500
 
